@@ -1,4 +1,4 @@
-# PicReImage
+# PicRe/Image
 A tool for convenient viewing and saving images from the resource pic.re/image
 Инструмент для удобного просмотра и сохранения изображений с ресурса pic.re/image
 
