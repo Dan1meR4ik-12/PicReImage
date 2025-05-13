@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
 [assembly: AssemblyTitle("Pic.Re/Image")]
-[assembly: AssemblyDescription("Простой инструмент, позволяющий быстро просматривать и сохранять аниме-арты с ресурса pic.re/image")]
+[assembly: AssemblyDescription("A tool that allows to watch and save anime arts from pic.re/image")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("<Dan1meR4ik=12/>")]
 [assembly: AssemblyProduct("Pic.Re/Image")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
