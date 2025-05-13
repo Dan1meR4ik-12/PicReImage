@@ -72,7 +72,7 @@ namespace PicReImage
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message + (isRus ? "\n\nВероятно, это проблема соединения с ресурсом pic.re" : "\n\nThis is probably a problem connecting to pic.re"));
+                MessageBox.Show(ex.Message + (isRus ? "\n\nВероятно, это проблема соединения с ресурсом pic.re\n" : "\n\nThis is probably a problem connecting to pic.re\n") + ex.InnerException, ex.Message);
             }
         }
 
